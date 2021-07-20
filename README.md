@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @carlosmimaki
+- 👀 I’m interested in  desenvolvimento de sites e aplicações web e mobile.
+- 🌱 I’m currently learning  Html, Css, JavaScript, JQuery, Nodejs, Vue, React, Angular, Booststrap, Sql Server, MySql, Java.
+- 💞️ I’m looking to collaborate on  desenvolvimento Frontend.
+- 📫 How to reach me  github.com/carlosmimaki
